@@ -1,0 +1,13 @@
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\bin\Debug\Employee Register.exe.config
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\bin\Debug\Employee Register.exe
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\bin\Debug\Employee Register.pdb
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee Register.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee_Register.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee Register.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee Register.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee Register.exe
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee Register.pdb
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee_Register.Statistics.resources
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee_Register.FrmMain.resources
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee_Register.FrmGraphics.resources
+C:\Users\90541\Desktop\C#\Employee Register\Employee Register\obj\Debug\Employee_Register.FrmLogin.resources
