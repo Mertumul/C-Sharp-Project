@@ -29,7 +29,7 @@ namespace Employee_Register
         {
             InitializeComponent();
         }
-        SqlConnection connection = new SqlConnection("Data Source=DESKTOP-0ENUTSG;Initial Catalog=EmployeeDataBase;Integrated Security=True");
+        SqlConnection connection = new SqlConnection("Data Source=*****;Initial Catalog=EmployeeDataBase;Integrated Security=True");
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
