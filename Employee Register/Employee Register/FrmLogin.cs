@@ -16,7 +16,7 @@ namespace Employee_Register
         {
             InitializeComponent();
         }
-        SqlConnection connection = new SqlConnection("Data Source=DESKTOP-0ENUTSG;Initial Catalog=EmployeeDataBase;Integrated Security=True");
+        SqlConnection connection = new SqlConnection("Data Source=******;Initial Catalog=EmployeeDataBase;Integrated Security=True");
 
         private void button1_Click(object sender, EventArgs e)
         {
