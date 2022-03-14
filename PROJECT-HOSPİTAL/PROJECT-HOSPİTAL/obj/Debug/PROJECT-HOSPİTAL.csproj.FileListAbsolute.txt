@@ -1,0 +1,46 @@
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\bin\Debug\PROJECT-HOSPİTAL.exe
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\bin\Debug\PROJECT-HOSPİTAL.exe.config
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmannouncement.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmAppointmentList.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmdoctordetail.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmDoctorInfoUpdate.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmdoctorlogin.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmdoctorpanel.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Form1.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmPatientDetail.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmPatientLogin.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmpatientregistration.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmsecretarydetail.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmsecretarylogin.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmspecialtpanel.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmUpdateInfo.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.exe
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.pdb
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\bin\Debug\PROJECT-HOSPİTAL.pdb
+C:\Users\90541\Desktop\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\bin\Debug\PROJECT-HOSPİTAL.exe.config
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\bin\Debug\PROJECT-HOSPİTAL.exe
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmannouncement.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmAppointmentList.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmdoctordetail.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmDoctorInfoUpdate.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmdoctorlogin.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmdoctorpanel.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Form1.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmPatientDetail.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmPatientLogin.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmpatientregistration.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmsecretarydetail.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Frmsecretarylogin.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.frmspecialtpanel.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.FrmUpdateInfo.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT_HOSPİTAL.Properties.Resources.resources
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.exe
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\obj\Debug\PROJECT-HOSPİTAL.pdb
+C:\Users\90541\Desktop\Yazılım Dosyalar\C#\PROJECT-HOSPİTAL\PROJECT-HOSPİTAL\bin\Debug\PROJECT-HOSPİTAL.pdb
