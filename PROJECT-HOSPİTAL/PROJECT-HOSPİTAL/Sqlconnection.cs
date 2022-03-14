@@ -11,7 +11,7 @@ namespace PROJECT_HOSPİTAL
     {
         public SqlConnection connection()
         {
-            SqlConnection connection1 = new SqlConnection("Data Source=DESKTOP-0ENUTSG;Initial Catalog=Hospital Project;Integrated Security=True");
+            SqlConnection connection1 = new SqlConnection("Data Source=*******;Initial Catalog=Hospital Project;Integrated Security=True");
             connection1.Open();
             return connection1;
         }
