@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\bin\Debug\homework2-saü.exe.config
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\bin\Debug\homework2-saü.exe
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\bin\Debug\homework2-saü.pdb
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\obj\Debug\homework2-saü.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\obj\Debug\homework2_saü.Form1.resources
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\obj\Debug\homework2_saü.Properties.Resources.resources
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\obj\Debug\homework2-saü.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\obj\Debug\homework2-saü.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\obj\Debug\homework2-saü.exe
+C:\Users\90541\Desktop\homework2-saü\homework2-saü\obj\Debug\homework2-saü.pdb
